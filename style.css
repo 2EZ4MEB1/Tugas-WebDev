@@ -73,3 +73,10 @@ a.sosial {
   text-decoration: none;
   border-radius: 3px;
 }
+
+.card-img {
+  height: 75%;
+  width: 75%;
+  justify-items: center;
+  margin-left: 10%;
+}
